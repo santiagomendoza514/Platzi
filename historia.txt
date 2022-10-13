@@ -1,5 +1,6 @@
 Esta es mi Historia y primer archivo para subir a GIT
-+
+*Tengo 21 años 
+*Me encuentro en sexto semestre de Ingenieria de Software
 +
 +
 +
